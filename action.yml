@@ -7,7 +7,7 @@ branding:
 
 inputs:
   branch:
-    description: 'The branch to nndo last commit'
+    description: 'The branch to undo last commit'
 
 runs:
   using: 'docker'
