@@ -2,7 +2,7 @@ name: "Undo Push"
 description: "Undo the last git push, removing it from commit history. Use for undoing a push error."
 author: "eXions"
 branding:
-  icon: git-commit
+  icon: rotate-ccw
   color: black
 
 inputs:
